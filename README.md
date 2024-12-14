@@ -132,6 +132,3 @@ This project demonstrates a SwiftUI application that combines two main features:
 3. **JSON Decoding Errors**:
    - Check the structure of `json_example.json` and ensure it matches the expected format.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
